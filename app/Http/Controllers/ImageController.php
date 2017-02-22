@@ -7,10 +7,12 @@ use App\Image;
 
 class ImageController extends Controller
 {
-    public function getIndex(){
-    	return view('welcome');
-    }
-    public function resizewidth(){
 
-    }
+	public function getIndex(){
+		return view('welcome');
+	}
+
+	public function resizewidth(){
+
+	}
 }

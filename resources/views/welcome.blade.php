@@ -7,10 +7,19 @@
 
     <title>Pic Resizer</title>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/semantic-ui/2.2.9/semantic.min.css">
+    <link rel="stylesheet" href="{{ mix('/css/app.css') }}">
 </head>
 <body>
 
 <h1>test</h1>
 
+
+
+
+
+
+
+
+<script src="{{ mix('/js/app.js') }}"></script>
 </body>
 </html>
